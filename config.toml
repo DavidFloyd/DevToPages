@@ -1,4 +1,4 @@
-baseurl = "https://blog.davidmacias.com"
+relativeURLS=true
 languageCode = "en-us"
 title = "Igor Kulman"
 googleAnalytics = "UA-49528577-2"
