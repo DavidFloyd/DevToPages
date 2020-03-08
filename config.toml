@@ -1,6 +1,6 @@
 relativeURLS=true
 languageCode = "en-us"
-title = "Igor Kulman"
+title = "David Macías"
 googleAnalytics = "UA-49528577-2"
 theme = "beautifulhugo"
 Paginate = 10
@@ -9,7 +9,7 @@ disqusShortname = "coudingjournal"
 [params]
   twitterName = "davidmacias"
   githubName = "davidmacias"
-  subtitle = "Adventures in the world of C#, F# and Swift on Windows and iOS"  
+  subtitle = "Adventures in the world of Java, Spring and Angular"  
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
@@ -20,18 +20,18 @@ disqusShortname = "coudingjournal"
 
 [Author]
   name = "davidmacias"
-  email = "igor@kulman.sk"
+  email = "david_4_1_4@hotmail.com"
   github = "davidmacias"
   twitter = "davidmacias"  
 
 [[menu.main]]
-    name = "Blog"
-    url = "/"
+    name = "Projects"
+    url = "/projects/"
     weight = 1
 
 [[menu.main]]
-    name = "Projects"
-    url = "/projects/"
+    name = "Blog"
+    url = "/blog/"
     weight = 2          
 
 [[menu.main]]
