@@ -8,6 +8,10 @@ date = "2020-03-03T06:56:45"
 
 {{% img-responsive"/images/inShortLogo.png"%}}
 
+## Live link: https://app.inshrt.com/
+
+In Short is a service that aims to provide a clean and convenient solution to the hustle of dealing with multiple online profiles and sharing these with other people by having a centralized collection available by sharing a simple QR code.  
+
 ## What I learnt from this project
 
 This project was initially an excuse to play around with the newer features of NgRx given that at work I work daily with an older version of this state management tech for Angular and we may consider upgrading soon.
@@ -32,6 +36,10 @@ Backend:
 
     Other: express-validator, bcryptjs, gravatar
 
+Database: 
+
+    MongoDB: For all the DB setup and management I used MongoDB Atlas, I found it quite convenient since I had enough new elements on this project to tackle and this service allows to do away with a local database (just pointing to a mongoURI is enough).  
+
 Infrastructure / Deployment
 
     Hosting: AWS, Elastic Beanstalk
@@ -42,10 +50,10 @@ Infrastructure / Deployment
 
 {{% img-responsive"/images/features01.png"%}}
 
-{{% img-responsive"/images/features02.png"%}}
-
-{{% img-responsive"/images/features03.png"%}}
-
 {{% img-responsive"/images/features04.png"%}}
 
 {{% img-responsive"/images/features05.png"%}}
+
+{{% img-responsive"/images/features02.png"%}}
+
+{{% img-responsive"/images/features03.png"%}}
